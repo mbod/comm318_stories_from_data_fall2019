@@ -1,4 +1,4 @@
-## COMM xxx: _Stories from data_: Introduction to programming for data journalism
+## COMM318: _Stories from data_: Introduction to programming for data journalism
 
 **Fall 2019 Annenberg School for Communication, University of Pennsylvania**
 
