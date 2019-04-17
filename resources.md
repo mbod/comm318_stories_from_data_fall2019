@@ -13,7 +13,7 @@
 
 * https://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-free-data-sources-for-2016/
 * https://www.kdnuggets.com/2017/12/big-data-free-sources.html
-
+* https://tinyletter.com/data-is-plural/archive (thanks Jenn)
 
 ### Data visualization
 
