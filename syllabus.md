@@ -63,7 +63,7 @@ in which students will work through programming exercises using Jupyter notebook
     * Thursday class sessions will be programming labs. Students are required to bring a laptop that can connect to the ASC network. Please contact the me if this is difficult and we can see if a machine can be made available for use in lab.
 	* We will be using Jupyter notebooks to learn Python, which are a web-based interactive programming environment. Assignments will be completed in this and submitted to the instructor. Details of using this system for assignments will be covered in the first lab session.
 	* Weekly assignments will be due at 5pm on the Tuesday following lab session (see schedule for details). These assignments are intended to help students practice the programming concepts and structures introduced in lab and build confidence. They should not be difficult or take excessive time but they do build from week to week so it is _very_ important to keep up.
-3. **Complete a project that uses the techniques and theory covered in class to carry out a text analysis of a specific research question agreed upon with the instructor (50%)**
+3. **Complete a project that uses the techniques and theory covered in class to carry out a data analysis of a specific research question agreed upon with the instructor (50%)**
     * The goal of this project is to create an engaging blog post similar those produced by data journalists after [State of the Union](https://www.washingtonpost.com/news/monkey-cage/wp/2015/01/21/the-state-of-the-union-address-in-a-single-figure/?utm_term=.1a2854849261) addresses or on a topic like ['How men and women talk about love'](https://www.nytimes.com/interactive/2017/11/07/upshot/modern-love-what-we-write-when-we-write-about-love.html) in the NYTimes recently.
 
     * The steps in the project are:
@@ -110,8 +110,8 @@ A central goal of this class is to help students begin to develop programming sk
 * **N.B.** - This is a tentative schedule that is subject to change
 
 ### Week 1 - Overview
-* Tue 08/27/19 - **Course overview**
-* Thur 08/29/19 -
+* Tue 08/27/19 - **Course overview** + JupyterHub setup
+* Thur 08/29/19 - **Introduction to Python**
 
 
 ### Week 2 -
