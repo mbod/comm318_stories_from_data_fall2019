@@ -53,8 +53,7 @@ in which students will work through programming exercises using Jupyter notebook
 3. **Complete a project that uses the techniques and theory covered in class to carry out a data analysis of a specific research question agreed upon with the instructor (50%)**
     * The goal of this project is to create:
         1. an engaging data director article in a blog post 
-        2. a data and analysis repository on `github.com`
-        
+        2. a data and analysis repository on `github.com`  
       similar those produced by data journalists (e.g. the `LA Times Data Desk`)
           * https://github.com/datadesk/notebooks
           * https://www.latimes.com/local/lanow/la-me-ln-homeless-housing-hhh-20190320-story.html
