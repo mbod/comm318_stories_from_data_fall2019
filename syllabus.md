@@ -1,4 +1,4 @@
-### COMM318: _Stories from data_: Introduction to programming for data journalism
+## COMM318: _Stories from data_: Introduction to programming for data journalism
 
 **Fall 2019: T/Th 12:00-1:30pm**  
 **Room: 108 ASC**  
@@ -16,7 +16,7 @@
 
 ## Course Description, Goals and Objectives
 
-Today masses of data are available everywhere, capturing information on just about everything and anything. Related but distinct data streams about newsworthy events and issues -- including activity from social media and open data sources (eg: The Open Government Initiative) -- have given rise to a new source for and style of reporting sometimes called Data Journalism. Increasingly, news sites and information portals present visually engaging, dynamic, and interactive stories linked to the underlying data (e.g. The Guardian DataBlog). This course offers an introduction to Python programming for data analysis and visualization. Students will learn how to collect, analyze, and present various forms of data. Second, because numbers and their visualizations do not speak for themselves but require context, interpretation, and narrative, students will practice making effective stories from data and presenting them in blogs and other formats. 
+Today masses of data are available everywhere, capturing information on just about everything and anything. Related but distinct data streams about newsworthy events and issues -- including activity from social media and open data sources (eg: The Open Government Initiative) -- have given rise to a new source for and style of reporting sometimes called Data Journalism. Increasingly, news sites and information portals present visually engaging, dynamic, and interactive stories linked to the underlying data (e.g. The Guardian DataBlog, LA Times Data Desk). This course offers an introduction to Python programming for data analysis and visualization. Students will learn how to collect, analyze, and present various forms of data. Second, because numbers and their visualizations do not speak for themselves but require context, interpretation, and narrative, students will practice making effective stories from data and presenting them in blogs and other formats. 
 
 No prior programming experience is required. Through this course students will gain skills writing Python programs to handle large amounts of textual data and become familiar with one of the key techniques used by data scientists, which is currently one of the most in-demand jobs.
 
@@ -43,7 +43,7 @@ in which students will work through programming exercises using Jupyter notebook
 
 ## Assessment
 
-~~
+
 1. **Complete the assigned readings and participation in class discussion (10%)**
 	* Readings for each week will be posted on Canvas when electronic versions are available or taken from one of the recommended textbooks.
 2. **Attend weekly lab sessions and complete the assigned exercises (40%)**
@@ -63,7 +63,7 @@ in which students will work through programming exercises using Jupyter notebook
 
     * The steps in the project are:
     
-         1. Decide upon a tractable research question that involves analysis of textual data, e.g.:
+         1. Decide upon a tractable research question that involves analysis of textual data
            
          2. Identify, retrieve and prepare relevant data
 
@@ -81,7 +81,8 @@ in which students will work through programming exercises using Jupyter notebook
             These steps will be scheduled throughout the course allowing for the instructor to help you find a manageable problem, acquire the necessary data and be able to carry out the appropriate computational analysis.
 
      * More details of the kinds of projects that would be appropriate and manageable will be discussed during the first few weeks of class.
-~~
+
+
 
 
 ## Note about learning programming
@@ -100,7 +101,7 @@ A central goal of this class is to help students begin to develop programming sk
 
 
 ### Week 2 - Python basics
-* Tue 09/03/19 - 
+* Tue 09/03/19 - Lists, dictionaries, functions and loops
 * Thur 09/05/19 - Lab session
 
 ### Week 3 - Working with _Open Data_
@@ -115,21 +116,21 @@ A central goal of this class is to help students begin to develop programming sk
 * Tue 09/24/19 - Guest lecture: Jennifer Henrichsen
 * Thur 09/26/19 - Lab session - engaging readers with data
 
-### Week 6 -
-* Tue 10/01/19 -
-* Thur 10/03/19 -
+### Week 6 - Working with data tables
+* Tue 10/01/19 - Selecting and transforming columns, subsetting & grouping
+* Thur 10/03/19 - Lab session - Working with Pandas #2
 
-### Week 7 -
+### Week 7 - Data visualization (Part 1)
 * Tue 10/08/19 -
 * Thur 10/10/19 - FALL BREAK
 
-### Week 8 - 
+### Week 8 - Data visualization (Part 2)
 * Tue 10/15/19 - 
-* Thur 10/17/19 -
+* Thur 10/17/19 - Lab Session
 
-### Week 9 -
-* Tue 10/22/19 -
-* Thur 10/24/19 -
+### Week 9 - Finding data in the _wild_ using web scraping 
+* Tue 10/22/19 - web scraping concepts, HTML + CSS
+* Thur 10/24/19 - Lab session - using `requests` + `BeautifulSoup`
 
 ### Week 10 - Data art - data stories beyond the newspaper
 * Tue 10/29/19 - Guest lecture: Roopa Vasudevan 
