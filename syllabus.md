@@ -54,6 +54,8 @@ in which students will work through programming exercises using Jupyter notebook
     * The goal of this project is to create:
         1. an engaging data director article in a blog post 
         2. a data and analysis repository on `github.com`  
+      ```
+      ```
       similar those produced by data journalists (e.g. the `LA Times Data Desk`)
       * https://github.com/datadesk/notebooks
       * https://www.latimes.com/local/lanow/la-me-ln-homeless-housing-hhh-20190320-story.html
