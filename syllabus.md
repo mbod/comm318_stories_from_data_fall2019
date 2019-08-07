@@ -3,10 +3,16 @@
 **Fall 2019: T/Th 12:00-1:30pm**  
 **Room: 108 ASC**  
 
-
-
 **Professor**: Dr. Matt O'Donnell
 **Email**: mbod@asc.upenn.edu
+**Office hours**: ASC 412 **x & y**
+
+**TA**: Roopa Vasudevan
+**Email**: roopa.vasudevan@asc.upenn.edu
+
+**Doctoral student assistant**: Jennifer Henrichsen
+**Email**: jennifer.henrichsen@asc.upenn.edu
+
 
 ## Course Description, Goals and Objectives
 
@@ -33,7 +39,7 @@ No prior programming experience is required. Through this course students will g
 * This course will provide an introduction to Python programming for collecting, cleaning, describing and analyzing a range
 of publicly available datasets, including demographic (e.g., age, race, education levels by geographic area),
 medical (e.g. vacination, ER intakes for certain conditions like flu, measles, etc),
-financial (e.g., spending on infrastructure, education, other initatives, income distribution, etc.), and
+financial (e.g., spending on infrastructure, education, other initatives, income distribution, etc.), event (e.g., crime data, road accidents) and
 transportation (e.g., usage statistics for public transportation and private schemes, e.g. bike shares).
 
 * Each week one session will be in lecture and seminar form and provide background for the theory and techniques and the second will be a lab session
@@ -41,17 +47,14 @@ in which students will work through programming exercises using Jupyter notebook
 
 * By completing this course students will:
 	* gain an understanding of how data can be used to support the reporting and making of news
+    * practice skills of making stories by collecting, transforming, visualizing and analyzing publicly available data
 	* explore the range of various kinds of data now available through initiatives such as Open Government Data initiative (data.gov) and a range of other available and curated data archives
 	* be exposed to a range of techniques from data journalism, data science and information visualization and understand how they can be used to tell news/media stories
 	* gain a basic level of programming proficiency in the Python programming language and have completed a number of programming exercises to collect, clean, analyze, visualize and interpret such data
 
-## Textbooks and resources
+## Resources
 
-* The main readings on data journalism:
-	*
-
-* and on Python programming and data analysis:
-	*
+* Readings on data journalism and resources for learning Python programming and data analysis will be made available on the class Canvas site.
 
 
 ## Assessment
@@ -61,36 +64,33 @@ in which students will work through programming exercises using Jupyter notebook
 	* Readings for each week will be posted on Canvas when electronic versions are available or taken from one of the recommended textbooks.
 2. **Attend weekly lab sessions and complete the assigned exercises (40%)**
     * Thursday class sessions will be programming labs. Students are required to bring a laptop that can connect to the ASC network. Please contact the me if this is difficult and we can see if a machine can be made available for use in lab.
-	* We will be using Jupyter notebooks to learn Python, which are a web-based interactive programming environment. Assignments will be completed in this and submitted to the instructor. Details of using this system for assignments will be covered in the first lab session.
+	* We will be using Jupyter notebooks to learn Python, which are part of a web-based interactive programming environment. Assignments will be completed in this environment and submitted to the instructor. Details of using this system for assignments will be covered in the first lab session.
 	* Weekly assignments will be due at 5pm on the Tuesday following lab session (see schedule for details). These assignments are intended to help students practice the programming concepts and structures introduced in lab and build confidence. They should not be difficult or take excessive time but they do build from week to week so it is _very_ important to keep up.
 3. **Complete a project that uses the techniques and theory covered in class to carry out a data analysis of a specific research question agreed upon with the instructor (50%)**
-    * The goal of this project is to create an engaging blog post similar those produced by data journalists after [State of the Union](https://www.washingtonpost.com/news/monkey-cage/wp/2015/01/21/the-state-of-the-union-address-in-a-single-figure/?utm_term=.1a2854849261) addresses or on a topic like ['How men and women talk about love'](https://www.nytimes.com/interactive/2017/11/07/upshot/modern-love-what-we-write-when-we-write-about-love.html) in the NYTimes recently.
+    * The goal of this project is to create:
+        1. an engaging data director article in a blog post 
+        2. a data and analysis repository on `github.com`
+        
+      similar those produced by data journalists (e.g. the `LA Times Data Desk`)
+          * https://github.com/datadesk/notebooks
+          * https://www.latimes.com/local/lanow/la-me-ln-homeless-housing-hhh-20190320-story.html
+          
 
     * The steps in the project are:
+    
          1. Decide upon a tractable research question that involves analysis of textual data, e.g.:
-            * _Did Hillary Clinton's language as candidate change between 2008 and 2016?_
-            * _What makes and when is Donald Trump happy (as evidenced on Twitter)?_
-            * _What characterises the online media's discussion of poverty/immigration/etc.?_
-            * _From smoking to vaping - Examining online testimonials of e-cigarette users_
-            * _Comparing portrayal of women in rap and country music__
-         2. Identify, retrieve and prepare a relevant corpus, e.g.
-            * Clinton 2008 and 2016 campaign speeches
-            * Trumps tweets since 2014
-            * Online news coverage of poverty/immigration/..
-            * User stories from online vaping forum, etc.)
-            * Representative samples of song lyrics
-         3. Carry out linguistic analysis of corpus, e.g.
-            * Construct comparative frequency lists of 2008 and 2016 speeches by Clinton, identify keywords, collocations and examined and interpret concordance listings
-            * Apply approrpriate sentiment analysis techniques to Trump tweet corpus, cluster tweets by sentiment and time, examine distinctive words and phrases
-            * Collocation analysis of topic related words (e.g. _poverty, poor, low-income_ or _immigration, immigrants, illegals, illegal aliens_)
-            * Create n-gram frequency lists and compare collocations and patterns relating to _smoking_ and _vaping_
-            * Examine and compare collocates of words for women between two genres
+           
+         2. Identify, retrieve and prepare relevant data
+
+         3. Explore, describe and analyze the dataset
+      
          4. Visualize data
-            * Find appropriate ways to communicate the most important and relevant results from step 3. This might be use a frequency list, concordance listings, a scatter plot of words and phrases, etc.
-         5. Interpret findings
-            * How does your text analysis answer your research question?
-            * Why and how does it matter?
-         6. Write up in a blog post
+            
+         5. Setup a github repository to make your data and analysis publicly available
+
+         6. Interpret findings
+
+         7. Write up in a blog post
 
 
             These steps will be scheduled throughout the course allowing for the instructor to help you find a manageable problem, acquire the necessary data and be able to carry out the appropriate computational analysis.
@@ -114,11 +114,11 @@ A central goal of this class is to help students begin to develop programming sk
 * Thur 08/29/19 - **Introduction to Python**
 
 
-### Week 2 -
+### Week 2 - Working with `Open Data`
 * Tue 09/03/19 -
 * Thur 09/05/19 -
 
-### Week 3 -
+### Week 3 - Understanding basic data structures
 * Tue 09/10/19 -
 * Thur 09/12/19 -
 
@@ -126,8 +126,8 @@ A central goal of this class is to help students begin to develop programming sk
 * Tue 09/17/19 -
 * Thur 09/19/19 -
 
-### Week 5 -
-* Tue 09/24/19 -
+### Week 5 - What is data journalism and what can it do?
+* Tue 09/24/19 - Guest lecture: Jennifer Henrichsen
 * Thur 09/26/19 -
 
 ### Week 6 -
@@ -138,8 +138,8 @@ A central goal of this class is to help students begin to develop programming sk
 * Tue 10/08/19 -
 * Thur 10/10/19 - FALL BREAK
 
-### Week 8 -
-* Tue 10/15/19 -
+### Week 8 - Data storytelling beyond data journalism 
+* Tue 10/15/19 - Guest lecture: Roopa Vasudevan
 * Thur 10/17/19 -
 
 ### Week 9 -
