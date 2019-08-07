@@ -16,23 +16,7 @@
 
 ## Course Description, Goals and Objectives
 
-Today masses of data are available everywhere, capturing information on just
-about everything and anything. Related but distinct data streams about
-newsworthy events and issues -- including activity from social media and open
-data sources (e.g OpenGov initiative) -- have given rise to a new source for and
-style of reporting sometimes called Data Journalism. Increasingly, news sites
-and information portals present visually engaging, dynamic, and interactive
-stories linked to the underlying data (e.g. The Guardian DataBlog).  News
-providers also create online repositories providing access to the numbers behind
-the stories. This course will address two challenges to being able to
-effectively catch the wave in this sea of data and create effective
-communication. First, the course offers an introduction to Python programming
-for data analysis and visualization. Students will learn how to collect,
-analyze, and present various forms of data. Second, because numbers and their
-visualizations alone do not speak for themselves but require context,
-interpretation, and narrative, students will practice making effective stories
-from data and presenting them in blog-like and other forms.
-
+Today masses of data are available everywhere, capturing information on just about everything and anything. Related but distinct data streams about newsworthy events and issues -- including activity from social media and open data sources (eg: The Open Government Initiative) -- have given rise to a new source for and style of reporting sometimes called Data Journalism. Increasingly, news sites and information portals present visually engaging, dynamic, and interactive stories linked to the underlying data (e.g. The Guardian DataBlog). This course offers an introduction to Python programming for data analysis and visualization. Students will learn how to collect, analyze, and present various forms of data. Second, because numbers and their visualizations do not speak for themselves but require context, interpretation, and narrative, students will practice making effective stories from data and presenting them in blogs and other formats. 
 
 No prior programming experience is required. Through this course students will gain skills writing Python programs to handle large amounts of textual data and become familiar with one of the key techniques used by data scientists, which is currently one of the most in-demand jobs.
 
@@ -111,24 +95,24 @@ A central goal of this class is to help students begin to develop programming sk
 
 ### Week 1 - Overview
 * Tue 08/27/19 - **Course overview** + JupyterHub setup
-* Thur 08/29/19 - **Introduction to Python**
+* Thur 08/29/19 - **Introduction to notebooks, Markdown & Python**
 
 
-### Week 2 - Working with `Open Data`
-* Tue 09/03/19 -
-* Thur 09/05/19 -
+### Week 2 - Python basics
+* Tue 09/03/19 - 
+* Thur 09/05/19 - Lab session
 
-### Week 3 - Understanding basic data structures
-* Tue 09/10/19 -
-* Thur 09/12/19 -
+### Week 3 - Working with _Open Data_
+* Tue 09/10/19 - data initiatives & repositories e.g. data.gov
+* Thur 09/12/19 - Lab session
 
-### Week 4 -
-* Tue 09/17/19 -
-* Thur 09/19/19 -
+### Week 4 - Understanding basic data structures
+* Tue 09/17/19 - Tabular data - rows, columns
+* Thur 09/19/19 - Lab session - Working with Pandas #1
 
 ### Week 5 - What is data journalism and what can it do?
 * Tue 09/24/19 - Guest lecture: Jennifer Henrichsen
-* Thur 09/26/19 -
+* Thur 09/26/19 - Lab session - engaging readers with data
 
 ### Week 6 -
 * Tue 10/01/19 -
@@ -138,17 +122,17 @@ A central goal of this class is to help students begin to develop programming sk
 * Tue 10/08/19 -
 * Thur 10/10/19 - FALL BREAK
 
-### Week 8 - Data storytelling beyond data journalism 
-* Tue 10/15/19 - Guest lecture: Roopa Vasudevan
+### Week 8 - 
+* Tue 10/15/19 - 
 * Thur 10/17/19 -
 
 ### Week 9 -
 * Tue 10/22/19 -
 * Thur 10/24/19 -
 
-### Week 10 -
-* Tue 10/29/19 -
-* Thur 10/31/19 -
+### Week 10 - Data art - data stories beyond the newspaper
+* Tue 10/29/19 - Guest lecture: Roopa Vasudevan 
+* Thur 10/31/19 - Lab session - data art (processing)
 
 ### Week 11 -
 * Tue 11/05/19 -
