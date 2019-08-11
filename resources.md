@@ -23,3 +23,7 @@
 ### Other
 
 * https://newsapi.org/
+
+
+### Articles & blogs of use
+* https://www.northeastern.edu/graduate/blog/blog-how-to-tell-stories-with-data/
