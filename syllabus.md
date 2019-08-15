@@ -112,33 +112,35 @@ A central goal of this class is to help students begin to develop programming sk
 * Tue 09/17/19 - Tabular data - rows, columns
 * Thur 09/19/19 - Lab session - Working with Pandas #1
 
-### Week 5 - What is data journalism and what can it do?
-* Tue 09/24/19 - Guest lecture: Jennifer Henrichsen
-* Thur 09/26/19 - Lab session - engaging readers with data
+### Week 5 - Working with data tables 
+* Tue 09/24/19 - Selecting and transforming columns, subsetting & grouping
+* Thur 09/26/19 - Lab session - Working with Pandas #2
 
-### Week 6 - Working with data tables
-* Tue 10/01/19 - Selecting and transforming columns, subsetting & grouping
-* Thur 10/03/19 - Lab session - Working with Pandas #2
+### Week 6 - Data visualization (Part 1)
+* Tue 10/01/19 - 
+* Thur 10/03/19 - Lab session
 
-### Week 7 - Data visualization (Part 1)
-* Tue 10/08/19 -
+### Week 7 - What is data journalism and what can it do?
+* Tue 10/08/19 - Guest lecture: Jennifer Henrichsen
 * Thur 10/10/19 - FALL BREAK
 
 ### Week 8 - Data visualization (Part 2)
 * Tue 10/15/19 - 
 * Thur 10/17/19 - Lab Session
 
-### Week 9 - Finding data in the _wild_ using web scraping 
-* Tue 10/22/19 - web scraping concepts, HTML + CSS
-* Thur 10/24/19 - Lab session - using `requests` + `BeautifulSoup`
+### Week 9 - Data art - data stories beyond the newspaper
+* Tue 10/22/19 - Guest lecture: Roopa Vasudevan 
+* Thur 10/24/19 - Lab session - data art (processing)
 
-### Week 10 - Data art - data stories beyond the newspaper
-* Tue 10/29/19 - Guest lecture: Roopa Vasudevan 
-* Thur 10/31/19 - Lab session - data art (processing)
+### Week 10 - 
+* Tue 10/29/19 - 
+* Thur 11/24/19 - 
 
-### Week 11 -
-* Tue 11/05/19 -
-* Thur 11/07/19 -
+
+
+### Week 11 - Finding data in the _wild_ using web scraping 
+* Tue 11/05/19 - web scraping concepts, HTML + CSS
+* Thur 11/07/19 - Lab session - using `requests` + `BeautifulSoup`
 
 
 
