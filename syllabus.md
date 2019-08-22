@@ -5,7 +5,7 @@
 
 **Professor**: Dr. Matt O'Donnell
 **Email**: mbod@asc.upenn.edu
-**Office hours**: ASC 412 **x & y**
+**Office hours**: ASC 404 **Wed 1-2pm & Thur 11-12**
 
 **TA**: Roopa Vasudevan
 **Email**: roopa.vasudevan@asc.upenn.edu
@@ -38,19 +38,17 @@ in which students will work through programming exercises using Jupyter notebook
 
 ## Resources
 
-* Readings on data journalism and resources for learning Python programming and data analysis will be made available on the class Canvas site.
+* Readings on data journalism and resources for learning Python programming and data analysis will be made available on the class Canvas site and the course github repository.
 
 
 ## Assessment
 
 
-1. **Complete the assigned readings and participation in class discussion (10%)**
-	* Readings for each week will be posted on Canvas when electronic versions are available or taken from one of the recommended textbooks.
-2. **Attend weekly lab sessions and complete the assigned exercises (40%)**
+1. **Attend weekly lab sessions and complete the assigned exercises (40%)**
     * Thursday class sessions will be programming labs. Students are required to bring a laptop that can connect to the ASC network. Please contact the me if this is difficult and we can see if a machine can be made available for use in lab.
 	* We will be using Jupyter notebooks to learn Python, which are part of a web-based interactive programming environment. Assignments will be completed in this environment and submitted to the instructor. Details of using this system for assignments will be covered in the first lab session.
-	* Weekly assignments will be due at 5pm on the Tuesday following lab session (see schedule for details). These assignments are intended to help students practice the programming concepts and structures introduced in lab and build confidence. They should not be difficult or take excessive time but they do build from week to week so it is _very_ important to keep up.
-3. **Complete a project that uses the techniques and theory covered in class to carry out a data analysis of a specific research question agreed upon with the instructor (50%)**
+	* Assignments will usually be due at 5pm on the Tuesday following lab session (see schedule for details). These assignments are intended to help students practice the programming concepts and structures introduced in lab and build confidence. They should not be difficult or take excessive time but they do build from week to week so it is _very_ important to keep up.
+2. **Complete a project that uses the techniques and theory covered in class to carry out a data analysis of a specific research question agreed upon with the instructor (60%)**
     * The goal of this project is to create:
         1. an engaging data director article in a blog post 
         2. a data and analysis repository on `github.com`  
@@ -63,7 +61,7 @@ in which students will work through programming exercises using Jupyter notebook
 
     * The steps in the project are:
     
-         1. Decide upon a tractable research question that involves analysis of textual data
+         1. Decide upon a tractable research question that involves analysis of available data sources (e.g. data.gov)
            
          2. Identify, retrieve and prepare relevant data
 
@@ -75,7 +73,7 @@ in which students will work through programming exercises using Jupyter notebook
 
          6. Interpret findings
 
-         7. Write up in a blog post
+         7. Write an web-based article to communicate the stories discovered in your data
 
 
             These steps will be scheduled throughout the course allowing for the instructor to help you find a manageable problem, acquire the necessary data and be able to carry out the appropriate computational analysis.
@@ -100,51 +98,50 @@ A central goal of this class is to help students begin to develop programming sk
 * Thur 08/29/19 - **Introduction to notebooks, Markdown & Python**
 
 
-### Week 2 - Python basics
-* Tue 09/03/19 - Lists, dictionaries, functions and loops
+### Week 2 - Python basics + stories in simple data
+* Tue 09/03/19 - Lists, dictionaries, functions and loops. Finding stories in simple data.
 * Thur 09/05/19 - Lab session
 
 ### Week 3 - Working with _Open Data_
 * Tue 09/10/19 - data initiatives & repositories e.g. data.gov
 * Thur 09/12/19 - Lab session
 
-### Week 4 - Understanding basic data structures
-* Tue 09/17/19 - Tabular data - rows, columns
+### Week 4 - Understanding basic data structures as the components of stories
+* Tue 09/17/19 - Tabular data - rows, columns. Looking for stories.
 * Thur 09/19/19 - Lab session - Working with Pandas #1
 
-### Week 5 - What is data journalism and what can it do?
-* Tue 09/24/19 - Guest lecture: Jennifer Henrichsen
-* Thur 09/26/19 - Lab session - engaging readers with data
+### Week 5 - Working with data tables - Finding stories in numbers.
+* Tue 09/24/19 - Selecting and transforming columns, subsetting & grouping. Data is messy!
+* Thur 09/26/19 - Lab session - Working with Pandas #2
 
-### Week 6 - Working with data tables
-* Tue 10/01/19 - Selecting and transforming columns, subsetting & grouping
-* Thur 10/03/19 - Lab session - Working with Pandas #2
+### Week 6 - Data visualization (Part 1) - 
+* Tue 10/01/19 - Aggregating & summarizing. Creating simple plots. Thinking about good visualizations.
+* Thur 10/03/19 - Lab session 
 
-### Week 7 - Data visualization (Part 1)
-* Tue 10/08/19 -
+### Week 7 - What is data journalism and what can it do?
+* Tue 10/08/19 - Guest lecture: Jennifer Henrichsen
 * Thur 10/10/19 - FALL BREAK
 
 ### Week 8 - Data visualization (Part 2)
 * Tue 10/15/19 - 
 * Thur 10/17/19 - Lab Session
 
-### Week 9 - Finding data in the _wild_ using web scraping 
-* Tue 10/22/19 - web scraping concepts, HTML + CSS
-* Thur 10/24/19 - Lab session - using `requests` + `BeautifulSoup`
+### Week 9 -  Data art (Part 1) - data stories beyond the newspaper
+* Tue 10/22/19 - Guest lecture: Roopa Vasudevan
+* Thur 10/24/19 - Lab session - data art (processing)
 
-### Week 10 - Data art - data stories beyond the newspaper
+### Week 10 - Data art (Part 2) 
 * Tue 10/29/19 - Guest lecture: Roopa Vasudevan 
 * Thur 10/31/19 - Lab session - data art (processing)
 
-### Week 11 -
-* Tue 11/05/19 -
-* Thur 11/07/19 -
+### Week 11 - Finding data in the _wild_ using web scraping
+* Tue 11/05/19 -  web scraping concepts, HTML + CSS
+* Thur 11/07/19 - Lab session - using `requests` + `BeautifulSoup`
 
 
-
-### Week 12 -
+### Week 12 - Putting data on the map
 * Tue 11/12/19 -
-* Thur 11/14/19 -
+* Thur 11/14/19 - Lab session
 
 
 ### Week 13 -

@@ -7,6 +7,7 @@
 
 * https://datajournalismhandbook.org
 * https://github.com/jadianes/data-journalism
+* https://guides.library.stonybrook.edu/JRN205/stories_in_the_numbers
 
 
 ### Data sources
@@ -19,6 +20,18 @@
 
 * https://news.nationalgeographic.com/2015/09/150922-data-points-visualization-eye-candy-efficiency/
 
+
+### Data journalism repos
+
+* BuzzFeed - https://github.com/BuzzFeedNews/everything
+* LA Times DataDesk - 
+* fivethirtyeight - https://github.com/fivethirtyeight/data
+* Washington Post 
+    * police shootings DB - https://github.com/washingtonpost/data-police-shootings/
+    * school shootings - https://github.com/washingtonpost/data-school-shootings
+* NPR
+    * defense data DB - https://github.com/nprapps/leso
+    * vizblog - e.g. http://blog.apps.npr.org/2018/11/19/elex-18-districts.html - and associated data repo
 
 ### Other
 
