@@ -24,7 +24,7 @@
 ### Data journalism repos
 
 * BuzzFeed - https://github.com/BuzzFeedNews/everything
-* LA Times DataDesk - 
+* LA Times DataDesk - https://github.com/datadesk/notebooks
 * fivethirtyeight - https://github.com/fivethirtyeight/data
 * Washington Post 
     * police shootings DB - https://github.com/washingtonpost/data-police-shootings/
@@ -36,7 +36,3 @@
 ### Other
 
 * https://newsapi.org/
-
-
-### Articles & blogs of use
-* https://www.northeastern.edu/graduate/blog/blog-how-to-tell-stories-with-data/

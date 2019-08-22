@@ -111,11 +111,11 @@ A central goal of this class is to help students begin to develop programming sk
 * Thur 09/19/19 - Lab session - Working with Pandas #1
 
 
-### Week 5 - Working with data tables - Finding stories in numbers.
-* Tue 09/24/19 - Selecting and transforming columns, subsetting & grouping. Data is messy!
+### Week 5 - Working with data tables - Finding story dimensions in numbers.
+* Tue 09/24/19 - Selecting and transforming columns, subsetting & grouping. Data is messy - cleaning it up!
 * Thur 09/26/19 - Lab session - Working with Pandas #2
 
-### Week 6 - Data visualization (Part 1) - 
+### Week 6 - Data visualization (Part 1) - Supporting stories with plots
 * Tue 10/01/19 - Aggregating & summarizing. Creating simple plots. Thinking about good visualizations.
 * Thur 10/03/19 - Lab session 
 
@@ -146,16 +146,16 @@ A central goal of this class is to help students begin to develop programming sk
 * Thur 11/14/19 - Lab session
 
 
-### Week 13 -
+### Week 13 - Interactive visualizations
 * Tue 11/19/19 -
 * Thur 11/21/19 -
 
 
-### Week 14 -
+### Week 14 - Review & Working on projects (1)
 * Tue 11/26/19 -
 * Thur 11/28/19 - THANKSGIVING
 
 
-### Week 15 -
+### Week 15 - Review & Working on projects (2)
 * Tue 12/03/19 -
 * Thur 12/05/19 -
