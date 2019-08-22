@@ -128,7 +128,6 @@ A central goal of this class is to help students begin to develop programming sk
 * Tue 10/15/19 - 
 * Thur 10/17/19 - Lab Session
 
-<<<<<<< HEAD
 ### Week 9 -  Data art (Part 1) - data stories beyond the newspaper
 * Tue 10/22/19 - Guest lecture: Roopa Vasudevan
 * Thur 10/24/19 - Lab session - data art (processing)
