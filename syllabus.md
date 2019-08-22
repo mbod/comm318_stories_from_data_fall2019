@@ -110,6 +110,7 @@ A central goal of this class is to help students begin to develop programming sk
 * Tue 09/17/19 - Tabular data - rows, columns. Looking for stories.
 * Thur 09/19/19 - Lab session - Working with Pandas #1
 
+
 ### Week 5 - Working with data tables - Finding stories in numbers.
 * Tue 09/24/19 - Selecting and transforming columns, subsetting & grouping. Data is messy!
 * Thur 09/26/19 - Lab session - Working with Pandas #2
@@ -117,6 +118,7 @@ A central goal of this class is to help students begin to develop programming sk
 ### Week 6 - Data visualization (Part 1) - 
 * Tue 10/01/19 - Aggregating & summarizing. Creating simple plots. Thinking about good visualizations.
 * Thur 10/03/19 - Lab session 
+
 
 ### Week 7 - What is data journalism and what can it do?
 * Tue 10/08/19 - Guest lecture: Jennifer Henrichsen
@@ -126,6 +128,7 @@ A central goal of this class is to help students begin to develop programming sk
 * Tue 10/15/19 - 
 * Thur 10/17/19 - Lab Session
 
+<<<<<<< HEAD
 ### Week 9 -  Data art (Part 1) - data stories beyond the newspaper
 * Tue 10/22/19 - Guest lecture: Roopa Vasudevan
 * Thur 10/24/19 - Lab session - data art (processing)
