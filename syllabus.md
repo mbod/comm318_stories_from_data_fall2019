@@ -44,7 +44,7 @@ in which students will work through programming exercises using Jupyter notebook
 ## Assessment
 
 
-1. **Attend weekly lab sessions and complete the assigned exercises (40%)**
+1. **Attend weekly lab sessions and complete the assigned readings and exercises (40%)**
     * Thursday class sessions will be programming labs. Students are required to bring a laptop that can connect to the ASC network. Please contact the me if this is difficult and we can see if a machine can be made available for use in lab.
 	* We will be using Jupyter notebooks to learn Python, which are part of a web-based interactive programming environment. Assignments will be completed in this environment and submitted to the instructor. Details of using this system for assignments will be covered in the first lab session.
 	* Assignments will usually be due at 5pm on the Tuesday following lab session (see schedule for details). These assignments are intended to help students practice the programming concepts and structures introduced in lab and build confidence. They should not be difficult or take excessive time but they do build from week to week so it is _very_ important to keep up.
@@ -76,7 +76,7 @@ in which students will work through programming exercises using Jupyter notebook
          7. Write an web-based article to communicate the stories discovered in your data
 
 
-            These steps will be scheduled throughout the course allowing for the instructor to help you find a manageable problem, acquire the necessary data and be able to carry out the appropriate computational analysis.
+       These steps will be scheduled throughout the course allowing for the instructor to help you find a manageable problem, acquire the necessary data and be able to carry out the appropriate computational analysis.
 
      * More details of the kinds of projects that would be appropriate and manageable will be discussed during the first few weeks of class.
 
@@ -130,11 +130,11 @@ A central goal of this class is to help students begin to develop programming sk
 
 ### Week 9 -  Data art (Part 1) - data stories beyond the newspaper
 * Tue 10/22/19 - Guest lecture: Roopa Vasudevan
-* Thur 10/24/19 - Lab session - data art (processing)
+* Thur 10/24/19 - Lab session - data art (processing) - part 1
 
 ### Week 10 - Data art (Part 2) 
-* Tue 10/29/19 - Guest lecture: Roopa Vasudevan 
-* Thur 10/31/19 - Lab session - data art (processing)
+* Tue 10/29/19 - Lab session - data art (processing) - part 2 
+* Thur 10/31/19 - Project planning and disucssion
 
 ### Week 11 - Finding data in the _wild_ using web scraping
 * Tue 11/05/19 -  web scraping concepts, HTML + CSS
@@ -142,20 +142,20 @@ A central goal of this class is to help students begin to develop programming sk
 
 
 ### Week 12 - Putting data on the map
-* Tue 11/12/19 -
+* Tue 11/12/19 - Working with geo data
 * Thur 11/14/19 - Lab session
 
 
 ### Week 13 - Interactive visualizations
-* Tue 11/19/19 -
-* Thur 11/21/19 -
+* Tue 11/19/19 - Adding movement to your data stories
+* Thur 11/21/19 - Lab session
 
 
 ### Week 14 - Review & Working on projects (1)
-* Tue 11/26/19 -
+* Tue 11/26/19 - Lab session
 * Thur 11/28/19 - THANKSGIVING
 
 
 ### Week 15 - Review & Working on projects (2)
-* Tue 12/03/19 -
-* Thur 12/05/19 -
+* Tue 12/03/19 - Lab session
+* Thur 12/05/19 - Lab session
