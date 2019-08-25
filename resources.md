@@ -19,6 +19,8 @@
 ### Data visualization
 
 * https://news.nationalgeographic.com/2015/09/150922-data-points-visualization-eye-candy-efficiency/
+* https://towardsdatascience.com/interactive-visualizations-in-jupyter-notebook-3be02ab2b8cd
+* https://towardsdatascience.com/jupyter-superpower-interactive-visualization-combo-with-python-ffc0adb37b7b#10bf
 
 
 ### Data journalism repos

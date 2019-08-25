@@ -50,13 +50,12 @@ in which students will work through programming exercises using Jupyter notebook
 	* Assignments will usually be due at 5pm on the Tuesday following lab session (see schedule for details). These assignments are intended to help students practice the programming concepts and structures introduced in lab and build confidence. They should not be difficult or take excessive time but they do build from week to week so it is _very_ important to keep up.
 2. **Complete a project that uses the techniques and theory covered in class to carry out a data analysis of a specific research question agreed upon with the instructor (60%)**
     * The goal of this project is to create:
-        1. an engaging data director article in a blog post 
+        1. an engaging data-driven article in a blog post 
         2. a data and analysis repository on `github.com`  
-      ```
-      ```
-      similar those produced by data journalists (e.g. the `LA Times Data Desk`)
-      * https://github.com/datadesk/notebooks
-      * https://www.latimes.com/local/lanow/la-me-ln-homeless-housing-hhh-20190320-story.html
+
+      similar those produced by data journalists (e.g. the `LA Times Data Desk`), for example:
+      * github repo: https://github.com/datadesk/notebooks
+      * article: https://www.latimes.com/local/lanow/la-me-ln-homeless-housing-hhh-20190320-story.html
           
 
     * The steps in the project are:
@@ -73,7 +72,7 @@ in which students will work through programming exercises using Jupyter notebook
 
          6. Interpret findings
 
-         7. Write an web-based article to communicate the stories discovered in your data
+         7. Write a web-based article to communicate the stories discovered in your data
 
 
        These steps will be scheduled throughout the course allowing for the instructor to help you find a manageable problem, acquire the necessary data and be able to carry out the appropriate computational analysis.
@@ -104,7 +103,7 @@ A central goal of this class is to help students begin to develop programming sk
 
 ### Week 3 - Working with _Open Data_
 * Tue 09/10/19 - data initiatives & repositories e.g. data.gov
-* Thur 09/12/19 - Lab session
+* Thur 09/12/19 - Lab session - git & github repos
 
 ### Week 4 - Understanding basic data structures as the components of stories
 * Tue 09/17/19 - Tabular data - rows, columns. Looking for stories.

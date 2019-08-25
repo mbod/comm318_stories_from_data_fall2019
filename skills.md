@@ -6,6 +6,20 @@
 * Tabular data 
    * Rows = instances/records
    * Columns = measurements/features
+   
+* Data types
+    * nominal/categorical
+    * interval
+    * ratio
+    * continuous
+    
+* Data formats
+    * CSV
+    * JSON
+    * XML
+    * GeoJSON
+    * HTML
+
 * pandas DataFrames concepts
    * Series
    * datatypes
@@ -64,3 +78,13 @@
      * HTML basics
        * elements and attributes
        * CSS
+
+* Visualization
+    * matplotlib 
+    * Pandas
+    * seaborn
+    * ggplot
+    * altair
+    * matplot
+    
+    
