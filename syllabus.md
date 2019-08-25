@@ -45,8 +45,8 @@ in which students will work through programming exercises using Jupyter notebook
 
 
 1. **Attend weekly lab sessions and complete the assigned readings and exercises (40%)**
-    * Thursday class sessions will be programming labs. Students are required to bring a laptop that can connect to the ASC network. Please contact the me if this is difficult and we can see if a machine can be made available for use in lab.
-	* We will be using Jupyter notebooks to learn Python, which are part of a web-based interactive programming environment. Assignments will be completed in this environment and submitted to the instructor. Details of using this system for assignments will be covered in the first lab session.
+    * Thursday class sessions will usually be programming labs. Students are required to bring a laptop that can connect to the ASC network. Please contact the me if this is difficult and we can see if a machine can be made available for use in lab.
+	* We will be using Jupyter notebooks to learn Python, which are part of a web-based interactive programming environment. You must have a github account to access the server.s Assignments will be completed in this environment and submitted to the instructor. Details of using this system for assignments will be covered in the first lab session.
 	* Assignments will usually be due at 5pm on the Tuesday following lab session (see schedule for details). These assignments are intended to help students practice the programming concepts and structures introduced in lab and build confidence. They should not be difficult or take excessive time but they do build from week to week so it is _very_ important to keep up.
 2. **Complete a project that uses the techniques and theory covered in class to carry out a data analysis of a specific research question agreed upon with the instructor (60%)**
     * The goal of this project is to create:
