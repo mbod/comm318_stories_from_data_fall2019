@@ -1,0 +1,87 @@
+Column_Name,Short_Description,Type,Length,Constraints
+ARRIVAL_TM,Time police arrived at the scene,TEXT,4,HHMM
+AUTOMOBILE_COUNT,Total Amount of Automobiles Involved,NUMBER,2,
+BELTED_DEATH_COUNT,Total Deaths of belted occupants,NUMBER,2,
+BELTED_MAJ_INJ_COUNT,Total Major Injuries of belted occupants,NUMBER,2,
+BICYCLE_COUNT,Total amount of Bicycles involved,NUMBER,2,
+BICYCLE_DEATH_COUNT,Total amount of Bicyclist Fatalities,NUMBER,2,
+BICYCLE_MAJ_INJ_COUNT,Total amount of Bicyclist Major Injuries,NUMBER,2,
+BUS_COUNT,Total amount of Buses involved,NUMBER,2,
+COLLISION_TYPE,Collision category that defines the crash,TEXT,1,See Column Code
+COMM_VEH_COUNT,Total Commercial vehicles involved,NUMBER,2,
+CONS_ZONE_SPD_LIM,Speed limit for the Construction Zone,TEXT,2,
+COUNTY,County Code Number where crash occurred,TEXT,2,See Column Code
+CRASH_MONTH,Month when the crash occurred,TEXT,2,
+CRASH_YEAR,Year when the crash occurred,TEXT,4,
+CRN,Crash Record Number,NUMBER,2,*Key to data base records *
+DAY_OF_WEEK,Day of the Week code when crash occurred,TEXT,1,See Column Code
+DEC_LAT,Decimal format of the Latitude,NUMBER,2.4,Latitude expressed in decimal degrees 99.9999
+DEC_LONG,Decimal format of the Longitude,NUMBER,2.4,Longitude expressed in decimal degrees 99.9999
+DISPATCH_TM,Time police were dispatched to the scene,TEXT,4,HHMM (Hour Minute)
+DISTRICT,District Number where crash occurred (Based on County),TEXT,2,See Column Code
+DRIVER_COUNT_16YR,Total amount of 16 year old drivers,NUMBER,2,
+DRIVER_COUNT_17YR,Total amount of 17 year old drivers,NUMBER,2,
+DRIVER_COUNT_18YR,Total amount of 18 year old drivers,NUMBER,2,
+DRIVER_COUNT_19YR,Total amount of 19year old drivers,NUMBER,2,
+DRIVER_COUNT_20YR,Total amount of 20 year old drivers,NUMBER,2,
+DRIVER_COUNT_50_64YR,Total amount of 50 to 64 year old drivers,NUMBER,2,
+DRIVER_COUNT_65_74YR,Total amount of 65 to 74 year old drivers,NUMBER,2,
+DRIVER_COUNT_75PLUS,Total amount of drivers ages 75 and up,NUMBER,2,
+EST_HRS_CLOSED,Estimated hours roadway was closed,TEXT,1,HHSS
+FATAL_COUNT,Total amount of fatalities involved,NUMBER,2,
+HEAVY_TRUCK_COUNT,Total amount of Heavy Trucks involved,NUMBER,2,
+HOUR_OF_DAY,The hour of Day when the crash occurred,TEXT,2,00 to 23
+ILLUMINATION,Code that defines lighting at crash scene,TEXT,1,See Column Code
+INTERSECT_TYPE,Code that defines the Intersection Type,TEXT,2,See Column Code
+LANE_CLOSED,Was there a lane closure? (Y/N),TEXT,1,"1=Y, 0 = N"
+LATITUDE,GPS Latitude determined by PennDOT,TEXT,1,2 DD MM:SS.ddd
+LN_CLOSE_DIR,Direction of traffic in closed lane (s),TEXT,1,See Column Code
+LOCATION_TYPE,Code that defines the crash location,TEXT,2,See Column Code
+LONGITUDE,GPS Longitude determined by PennDOT (in negative degrees),TEXT,1,2 DD MM:SS.ddd
+MAJ_INJ_COUNT,Total amount of Major Injuries involved,NUMBER,2,
+MAX_SEVERITY_LEVEL,Injury severity level of the crash,TEXT,1,See Column Code
+MCYCLE_DEATH_COUNT,Total amount of Motorcyclist fatalities,NUMBER,2,
+MCYCLE_MAJ_INJ_COUNT,Total amount of Motorcyclist Major Injuries,NUMBER,2,
+MIN_INJ_COUNT,Total amount of Minimal Injuries,NUMBER,2,
+MOD_INJ_COUNT,Total amount of Moderate Injuries,NUMBER,2,
+MOTORCYCLE_COUNT,Total amount of Motorcycles Involved,NUMBER,2,
+MUNICIPALITY,Municipality Code,TEXT,5,See Municipality Code
+NTFY_HIWY_MAINT,PENNDOT highway maintenance notified?,TEXT,1,"1=Y, 0 = N"
+PED_COUNT,Total Pedestrians involved,NUMBER,2,
+PED_DEATH_COUNT,Total Pedestrian fatalities,NUMBER,2,
+PED_MAJ_INJ_COUNT,Total Pedestrian Major Injuries,NUMBER,2,
+PERSON_COUNT,Total People involved,NUMBER,2,
+POLICE_AGCY,Code of the Reporting Police Agency,TEXT,5,See Police Agency Code
+RDWY_SURF_TYPE_CD,Code for the Roadway surface type –only for fatal crashes,TEXT,2,See Column Code
+RELATION_TO_ROAD,Code for the crash’s relativity to the road,TEXT,2,See Column Code
+ROAD_CONDITION,Roadway Surface Condition Code,TEXT,1,See Column Code
+SCH_BUS_IND,Did the crash involve a School Bus? (Y/N),TEXT,1,Y = Yes N = No
+SCH_ZONE_IND,Did the crash occur in a School Zone? (Y/N),TEXT,1,Y = Yes N = No
+SMALL_TRUCK_COUNT,Total amount of Small Trucks involved,NUMBER,2,
+SPEC_JURIS_CD,Code that defines any special jurisdiction – only for fatal crashes,TEXT,1,See Column Code 
+SUV_COUNT,Total count of sport utility vehicles involved,NUMBER,2,
+TCD_FUNC_CD,Code for Traffic Control Device state,TEXT,2,See Column Code
+TCD_TYPE,Code that defines the Traffic Control Device,TEXT,1,See Column Code
+TFC_DETOUR_IND,Was Traffic Detoured? (Y/N),TEXT,1,"1=Y, 0 = N"
+TIME_OF_DAY,The Time of Day When the Crash Occurred,TEXT,4,0000 through 2359
+TOTAL_UNITS,Total count of all Vehicles and Pedestrians,NUMBER,2,
+UNBELTED_OCC_COUNT,Total count of all unbelted occupants,NUMBER,2,
+UNB_DEATH_COUNT,No. of people killed not wearing a seatbelt,NUMBER,2,
+UNB_MAJ_INJ_COUNT,Total # of unbelted sustaining Major Injuries,NUMBER,2,
+UNK_INJ_DEG_COUNT,No. of injuries with unknown severity,NUMBER,2,
+UNK_INJ_PER_COUNT,No. of people that are unknown if injured,NUMBER,2,
+URBAN_RURAL,Code to classify crash as Urban or Rural based on municipality,TEXT,1,"1= Rural, 2=Urbanized, 3=Urban"
+VAN_COUNT,Total amount of vans involved,NUMBER,2,
+VEHICLE_COUNT,Total number of all motor vehicles involved in the crash,NUMBER,2,
+WEATHER,Code for the weather type at time of crash,TEXT,1,See Column Code
+WK_ZONE_IND,Did the crash occur in a work zone (Y/N),TEXT,1,"1=Y, 0 = N"
+WORKERS_PRES,Were construction personnel present? (Y/N),TEXT,1,"1=Y, 0 = N"
+WZ_CLOSE_DETOUR,Was traffic rerouted due to work zone?(Y/N),TEXT,1,"1=Y, 0 = N"
+WORK_ZONE_LOC,The Work Zone Location Code,TEXT,1,See Column Code
+WORK_ZONE_TYPE,Code to define the type of Work Zone,TEXT,1,See Column Code
+WZ_FLAGGER,Did Work zone have a flagman? (Y/N),TEXT,1,"1=Y, 0 = N"
+WZ_LAW_OFFCR_IND,Did Work zone have a patrolman? (Y/N),TEXT,1,"1=Y, 0 = N"
+WZ_LN_CLOSURE,Did Work zone have a lane closure? (Y/N),TEXT,1,"1=Y, 0 = N"
+WZ_MOVING,Was there moving work in the zone? (Y/N),TEXT,1,"1=Y, 0 = N"
+WZ_OTHER,Was this a special type of work zone? (Y/N),TEXT,1,"1=Y, 0 = N"
+WZ_SHLDER_MDN,Was a median/shoulder in the zone? (Y/N),TEXT,1,"1=Y, 0 = N"
