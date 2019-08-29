@@ -1,6 +1,12 @@
 ## Instructions on logging into the COMM318 JupyterHub
 
 
+#### HISTORY
+
+* 8/28/19 mbod - inital steps outlined
+
+----------
+
 #### Step 1. Go to `https://commjhub.asc.upenn.edu`
 
 * You should see a log in screen asking you to sign in using GitHub.
@@ -41,8 +47,8 @@
 * The first thing you should always do is rename it by clicking on the title.
 * Use a name that makes sense and **USE UNDERSCORES INSTEAD OF SPACES**.
     * For example:
-        * __NOT__ `my first notebook test.ipynb`
-        * __BUT__ `my_first_notebook_test.ipynb`
+        * __NOT__ `my first notebook test`
+        * __BUT__ `my_first_notebook_test`
         
 
 ![](../img/jhub6.png)
