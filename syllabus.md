@@ -44,13 +44,11 @@ in which students will work through programming exercises using Jupyter notebook
 ## Assessment
 
 
-1. **Peer graded reviews of data journalism examples (10%)**
-    * A series of data driven articles and associated data repos will be assigned for evaluation and group discussion during lab sessions. You will be asked to write a short response to each which will be graded by others in your group.
-2. **Attend weekly lab sessions and complete the assigned readings and exercises (40%)**
+1. **Attend weekly lab sessions and complete the assigned readings and exercises (40%)**
     * Thursday class sessions will usually be programming labs. Students are required to bring a laptop that can connect to the ASC network. Please contact the me if this is difficult and we can see if a machine can be made available for use in lab.
 	* We will be using Jupyter notebooks to learn Python, which are part of a web-based interactive programming environment. You must have a github account to access the server. If you do not have an account go to https://github.com/join and set one up. Assignments will be completed in this environment and submitted to the instructor. Details of using this system for assignments will be covered in the first lab session.
 	* Assignments will usually be due at 5pm on the Tuesday following lab session (but this may vary). These assignments are intended to help students practice the programming concepts and structures introduced in lab and build confidence. They should not be difficult or take excessive time but they do build from week to week so it is _very_ important to keep up.
-3. **Complete a project that uses the techniques and theory covered in class to carry out a data analysis of a specific research question agreed upon with the instructor (50%)**
+2. **Complete a project that uses the techniques and theory covered in class to carry out a data analysis of a specific research question agreed upon with the instructor (60%)**
     * The goal of this project is to create:
         1. an engaging data-driven online article 
         2. a data and analysis repository on `github.com`  
