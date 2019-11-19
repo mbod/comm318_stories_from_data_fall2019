@@ -119,12 +119,13 @@ A central goal of this class is to help students begin to develop programming sk
 * Thur 10/03/19 - Lab session 
 
 
-### Week 7 - What is data journalism and what can it do?
-* Tue 10/08/19 - Guest lecture: Jennifer Henrichsen
+### Week 7 - Data visualization (Part 2)
+* Tue 10/08/19 - Using Python visualization libraries. Principles of good infomation visualization.
+* Wed 10/09/19 - __ASSIGNMENT 2 DUE__
 * Thur 10/10/19 - FALL BREAK
 
-### Week 8 - Data visualization (Part 2)
-* Tue 10/15/19 - Using Python visualization libraries. Principles of good infomation visualization.
+### Week 8 - What is data journalism and what can it do?
+* Tue 10/15/19 - Guest lecture: Jennifer Henrichsen
 * Thur 10/17/19 - Lab Session
 
 ### Week 9 -  Data art (Part 1) - data stories beyond the newspaper
